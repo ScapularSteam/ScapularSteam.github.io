@@ -1,9 +1,10 @@
 h1 {
-    color: rgb(128, 8, 8);
+    color: white;
     font-family: Montserrat;
     size: 50px;
     background-color: darkred;
     padding: 20px;
+    border: 20px;
 }
 
 h4 {
