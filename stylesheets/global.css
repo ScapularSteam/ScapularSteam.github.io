@@ -1,12 +1,17 @@
 h1 {
     color: rgb(128, 8, 8);
     font-family: Montserrat;
+    size: 50px;
+    background-color: darkred;
+    padding: 20px;
 }
 
 h4 {
     font-family: Noto Sans Mono;
+    size: 25px;
 }
 
 h3 {
     font-family: Noto Sans Mono;
+    size: 35px;
 }
