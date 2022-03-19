@@ -2,7 +2,7 @@ h1 {
     text-align: center;
     color: white;
     font-family: Montserrat;
-    size: 50px;
+    size: 70px;
     background-color: darkred;
     padding: 20px;
     border: 20px;
@@ -16,4 +16,5 @@ h4 {
 h3 {
     font-family: Noto Sans Mono;
     size: 35px;
+    padding: 10px;
 }
