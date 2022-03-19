@@ -5,7 +5,7 @@ h1 {
     size: 70px;
     background-color: darkred;
     padding: 20px;
-    border: 20px;
+    border-width: 20px;
 }
 
 h4 {
